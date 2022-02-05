@@ -29,4 +29,5 @@ public class ScreenShotTest {
  public void tearDown() {
   driver.close();
  }
+
 }
